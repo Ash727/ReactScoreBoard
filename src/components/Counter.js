@@ -8,7 +8,7 @@ const Counter = (props) => {
 	// 	this.setState((prevState) => ({
 	// 		score: prevState.score + 1
 	// 	}));
-	// };
+	// };n
 
 	// decrementScore = () => {
 	// 	this.setState((prevState) => ({
